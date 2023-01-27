@@ -1,1 +1,2 @@
-mAKING CHANGES ON README FILE FROM GITHUB
+Making changes on readme file from github
+
